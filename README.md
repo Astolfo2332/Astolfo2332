@@ -30,7 +30,7 @@ As a Bioengineering student, I am passionate about data analyst and Python devel
 - Programmed a microcontroller using C++ to regulate and monitor a medical device.
 - Integrated sensors and actuators to ensure accurate functionality, demonstrating the application of programming in the medical field.
 
-### Health Monitoring Web App for Deaf Users |  [Docker deployment](https://github.com/Astolfo2332/web-app-4)
+### Web App for Deaf Users |  [Docker deployment](https://github.com/Astolfo2332/web-app-4)
 - Developed a web application using Node.js and React to assist deaf individuals in understanding technical words in engineering using sign language.
 - Utilized JavaScript to create interactive visualizations and provided easy and interactive access to videos and definitions.
 - Deployed as a Docker Flask service to ensure seamless accessibility and availability.
