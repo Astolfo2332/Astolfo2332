@@ -44,7 +44,7 @@ As a Bioengineering student, I am passionate about data analyst and Python devel
 - Documented the pipeline thoroughly and collaborated with the research team to ensure its effective integration into the analysis workflow.
 
 ## Experience
-### Biomedical Research Assistant | Nutraceutika SAS | Itagui, Antioquia | 10/2020 - Present
+### Bioengenier Research Assistant | Nutraceutika SAS | Itagui, Antioquia | 10/2020 - Present
 - Assist in experiments and data collection for ongoing research projects.
 - Apply Python for data preprocessing and assist in analyzing biological data.
 - Contribute to team efforts in understanding complex enzymatic processes.
