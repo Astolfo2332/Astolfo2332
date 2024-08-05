@@ -3,7 +3,7 @@
 * [Email](mailto:migue19sep@gmail.com) 
 
 ## Summary
-As a Bioengineering student, I am passionate about data analyst and Python development with expertise in using Python libraries such as Pandas, Scikit-Learn, Numpy and SciPy for data analysis and machine learning. Proficient in programming microcontrollers using C and C++, and experienced in web development with JavaScript, Node.js, Docker, and React.
+As a Bioengineering, I am passionate about data analyst and Python development with expertise in using Python libraries such as Pandas, Scikit-Learn, Numpy and SciPy for data analysis and machine learning. Proficient in programming microcontrollers using C and C++, and experienced in web development with JavaScript, Node.js, Docker, and React.
 
 ## Skills
 - Python
@@ -17,7 +17,7 @@ As a Bioengineering student, I am passionate about data analyst and Python devel
 - Docker
 
 ## Education
-### Student of bioengeniering | Universidad of Antioquia | Medellín, Antioquia | present
+### Student of bioengeniering | Universidad of Antioquia | Medellín, Antioquia | September, 2024
 - Relevant Coursework: Biomedical Signal Processing, Biomaterials, Machine Learning.
 
 ## Projects
@@ -44,11 +44,11 @@ As a Bioengineering student, I am passionate about data analyst and Python devel
 - Documented the pipeline thoroughly and collaborated with the research team to ensure its effective integration into the analysis workflow.
 
 ## Experience
-### Bioengenier Research Assistant | Nutraceutika SAS | Itagui, Antioquia | 10/2020 - Present
+### Bioengenier Research Assistant | Nutraceutika SAS | Itagui, Antioquia | 10/2020 - 7/2024
 - Assist in experiments and data collection for ongoing research projects.
 - Apply Python for data preprocessing and assist in analyzing biological data.
 - Contribute to team efforts in understanding complex enzymatic processes.
 
 ## Languages
-- English (Fluent)
+- English (B2)
 - Spanish (Native)
