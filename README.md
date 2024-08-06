@@ -7,14 +7,16 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 
 ## Skills
 - Python
-  - Pandas, Scikit-Learn, SciPy
+  - Pandas, Scikit-Learn, SciPy, Scikit-Learn, Numpy, Tensorflow, Pytorch.
 - Data Analysis
 - Machine Learning
 - C and C++ Programming
 - Microcontroller Programming
 - JavaScript
-  - Node.js, React
+  - React and Vue
 - Docker
+- AWS in python aplications certificate
+- Google cloud basic infraestructure and GKE certificate 
 
 ## Education
 ### Student of bioengeniering | Universidad of Antioquia | Medellín, Antioquia | September, 2024
