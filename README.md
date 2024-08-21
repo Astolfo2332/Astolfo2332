@@ -52,5 +52,5 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 - Contribute to team efforts in understanding complex enzymatic processes.
 
 ## Languages
-- English (B2)
+- English (C1)
 - Spanish (Native)
