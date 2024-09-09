@@ -1,6 +1,7 @@
 # Miguel 
 * [GitHub](https://github.com/Astolfo2332)
-* [Email](mailto:migue19sep@gmail.com) 
+* [Email](mailto:migue19sep@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/miguel-lopez-velez/)
 
 ## Summary
 As a Bioengineering, I am passionate about data analyst and Python development with expertise in using Python libraries such as Pandas, Scikit-Learn, Numpy and SciPy for data analysis and machine learning. Proficient in programming microcontrollers using C and C++, and experienced in web development with JavaScript, Node.js, Docker, and React.
