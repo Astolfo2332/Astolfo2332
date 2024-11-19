@@ -20,8 +20,9 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 - Google cloud basic infraestructure and GKE certificate 
 
 ## Education
-### Student of bioengeniering | Universidad of Antioquia | Medellín, Antioquia | September, 2024
+### Bioengineer | Universidad of Antioquia | Medellín, Antioquia | September, 2024
 - Relevant Coursework: Biomedical Signal Processing, Biomaterials, Machine Learning.
+### Master in Artificial Intelligence | International University of Valencia | Present
 
 ## Projects
 
@@ -51,6 +52,7 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 - Assist in experiments and data collection for ongoing research projects.
 - Apply Python for data preprocessing and assist in analyzing biological data.
 - Contribute to team efforts in understanding complex enzymatic processes.
+### AI Engineer | Nisum - BCI Bank | Remote | 10/2024 - Present
 
 ## Languages
 - English (C1)
