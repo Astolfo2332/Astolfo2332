@@ -20,7 +20,7 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 - Google cloud basic infraestructure and GKE certificate 
 
 ## Education
-### Bioengineer | Universidad of Antioquia | Medellín, Antioquia | September, 2024
+### Bioengineer | University of Antioquia | Medellín, Antioquia | September, 2024
 - Relevant Coursework: Biomedical Signal Processing, Biomaterials, Machine Learning.
 ### Master in Artificial Intelligence | International University of Valencia | Present
 
