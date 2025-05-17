@@ -31,7 +31,7 @@ As a Bioengineering, I am passionate about data analyst and Python development w
 - Develop and implement machine learning models to extract insights from data.
 
 ### Microcontroller-controlled Biomedical Device | [Infusion pump](https://github.com/Astolfo2332/Pf_El_Motor_Se_Mueve)
-- Programmed a microcontroller using C++ to regulate and monitor a medical device.
+- Programmed a microcontroller using C to regulate and monitor a medical device.
 - Integrated sensors and actuators to ensure accurate functionality, demonstrating the application of programming in the medical field.
 
 ### Web App for Deaf Users |  [Docker deployment](https://github.com/Astolfo2332/web-app-4)
